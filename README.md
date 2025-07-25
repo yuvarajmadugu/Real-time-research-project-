@@ -1,5 +1,5 @@
-**🌾 Real-Time Predictive Crop Yield Estimation**
-Predicetive Crop Yeild Estimation: Machine Learning Classifier Comparision
+# 🌾 Real-Time Predictive Crop Yield Estimation
+# Predicetive Crop Yeild Estimation: Machine Learning Classifier Comparision
 
 📌 Project Overview
 The Predictive Crop Yield Estimation project is a real-time machine learning-based system developed as a research initiative to forecast agricultural crop yields. It classifies yield into low, average, and high categories using historical, environmental, and soil-related features. This project integrates two machine learning models—Orthogonal Matching Pursuit and Calibrated Logistic Regression—to explore the balance between interpretability and predictive performance.
